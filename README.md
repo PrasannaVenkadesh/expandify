@@ -1,5 +1,5 @@
 Today People are present everywhere in Internet, let it be Social networks, IRC's, Mailing lists, etc.,
-People on IRC's & Social Network uses IS/CS - Internet Slang / Computer Slang
+People on IRC's & Social Network uses IS/CS - Internet Slang / Computer Slang;
 People on Mailing list and official Emails uses - Complete English
 
 But our fingers are more used to IS/CS and even I am lazy to type the complete phrase. So I use expandify.
