@@ -16,7 +16,12 @@ In your Terminal
 
 and type one or more sentences without a line break.
 
-It gives back you in complete phrase when you press ENTER and then copy paste in your Email or Mailing list.
+Example:
+		
+		$./expandify.py
+		AFAIK & IMPOV this is True
+
+and press ENTER to see what happens!, then copy paste where you want it to be in complete english
 
 My preffered way is to use xclip
 
