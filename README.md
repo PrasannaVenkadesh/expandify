@@ -12,7 +12,7 @@ How to Use it?
 ==============
 In your Terminal
 
-		$./expandify
+		$./expandify.py
 
 and type one or more sentences without a line break.
 
@@ -20,7 +20,7 @@ It gives back you in complete phrase when you press ENTER and then copy paste in
 
 My preffered way is to use xclip
 
-		$./expandify | xclip -sel clip
+		$./expandify.py | xclip -sel clip
 
 Pipelining the output to xclip automatically copies the text to your clipboard which saves your time of copying (much more lazier), now all you need to do is to paste it wherever you like.
 
