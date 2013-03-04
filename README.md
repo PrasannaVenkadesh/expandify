@@ -29,3 +29,6 @@ My preffered way is to use xclip
 
 Pipelining the output to xclip automatically copies the text to your clipboard which saves your time of copying (much more lazier), now all you need to do is to paste it wherever you like.
 
+Lot of IS are missing?
+======================
+Yes, indeed they are missing, I am adding them one by one, and if you have free time or atleast make some free time to add here if you wish. Just Fork it; add it; send me a merge request ;-)
